@@ -12,7 +12,28 @@ package io.abhijith.leetcode;
  *
  */
 
+import java.util.HashMap;
+
 public class TwoSum {
+	
+	public void findSolution(int[] nums, int target) {
+		
+		int[] index = new int[2];
+		HashMap<Integer, Integer> hmap = new HashMap<>();
+		
+		for(int i=0 ; i<nums.length; i++) {
+			int temp = target - nums[i];
+			if(hmap.containsKey(temp)) {
+				index[0] = hmap.get(temp);
+				index[1] = i;
+				System.out.println("[" + index[0] + "," + index[1] + "]");
+				return;
+			} 
+			hmap.put(nums[i], i);
+		}
+		
+	}
+	
 	
 	public int[] twoSum(int[] nums, int target) {
         int[] arr = new int[2];
