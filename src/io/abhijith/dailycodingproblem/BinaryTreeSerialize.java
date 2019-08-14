@@ -53,7 +53,7 @@ public class BinaryTreeSerialize {
 		BinaryTreeNode node = new BinaryTreeNode();
 		node.setVal(marker.get(i));
 		node.setLeft(deSerialize(marker, i+1));
-		node.setRight(deSerialize(marker, i+1));
+		node.setRight(deSerialize(marker, i+2));
 		
 		return node;
 	}
