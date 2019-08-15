@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Given a positive integer, check whether it has alternating bits
  * ie, two adjacent bits will always have different values
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class AlternatingBits {

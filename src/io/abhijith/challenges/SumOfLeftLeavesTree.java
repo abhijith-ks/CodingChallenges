@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Find the sum of all left leaves of a given binary tree
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import io.abhijith.resources.BinaryTreeNode;

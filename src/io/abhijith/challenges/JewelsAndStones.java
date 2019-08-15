@@ -7,7 +7,7 @@ package io.abhijith.challenges;
  * Letters in J are guaranteed distinct, and all characters in J and S are letters.
  * Letters are case sensitive.
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.HashMap;

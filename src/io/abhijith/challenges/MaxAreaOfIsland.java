@@ -6,7 +6,7 @@ package io.abhijith.challenges;
  * 
  * Find the maximum area of an island in the given 2D array.
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class MaxAreaOfIsland {

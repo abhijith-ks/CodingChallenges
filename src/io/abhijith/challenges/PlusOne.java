@@ -6,7 +6,7 @@ package io.abhijith.challenges;
  * and each element in the array contains a single digit
  * You may assume that the integer does not contain any leading zero except for the number zero itself
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

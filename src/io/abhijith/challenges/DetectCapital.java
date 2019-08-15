@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Given a string, judge whether the use of the Capitals in the word is correct or not
  * Valid uses: USA, leetcode, Google 
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class DetectCapital {

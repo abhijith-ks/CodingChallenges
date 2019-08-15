@@ -8,7 +8,7 @@ package io.abhijith.challenges;
  * You may not slant the container and n is at least 2.
  * O(n)
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class ContainerWithMostWater {

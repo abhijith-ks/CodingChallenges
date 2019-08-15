@@ -13,7 +13,7 @@ package io.abhijith.challenges;
  *    /\
  *   3  5
  *   
- * @author i332773
+ * @author abhijith-ks
  */
 
 import io.abhijith.resources.BinaryTreeNode;

@@ -13,7 +13,7 @@ package io.abhijith.dailycodingproblem;
  *  / \
  * 1   1
  * 
- * @author I332773
+ * @author abhijith-ks
  */
 
 import io.abhijith.resources.BinaryTreeNode;

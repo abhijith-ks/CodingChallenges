@@ -5,7 +5,7 @@ package io.abhijith.challenges;
  * Return all subsets (power set)
  * Solution must not contain duplicates
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.ArrayList;

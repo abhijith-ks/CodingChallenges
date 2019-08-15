@@ -6,7 +6,7 @@ package io.abhijith.challenges;
  * You may complete as many transactions as you like
  * You may not engage in multiple transactions at the same time
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

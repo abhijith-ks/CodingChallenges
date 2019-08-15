@@ -8,7 +8,7 @@ package io.abhijith.challenges;
  * Example: {7,1,5,3,6,4}
  * 6 - 1 = 5
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

@@ -7,7 +7,7 @@ package io.abhijith.challenges;
  * Words in the list of banned words are given in lower case, and free of punctuation.
  * Words in he paragraph are not case sensitive. The answer is in lower case.
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.Arrays;

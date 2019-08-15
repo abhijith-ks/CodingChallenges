@@ -7,7 +7,7 @@ package io.abhijith.dailycodingproblem;
  * The basic idea is to represent repeated successive character as a single count and character.
  * Example: String "AAAABBBCCDAA" would be encoded as 4A3B2C1D2A
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

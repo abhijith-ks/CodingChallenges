@@ -8,7 +8,7 @@ package io.abhijith.challenges;
  * 	 In other words, they can only be made of the shape 1*N (1 row, N columns) or N*1 (N rows, 1 columns), where N can be of any size.
  * - At least one horizontal or vertical cell separates between two battleships - there are no adjacent battleships.
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

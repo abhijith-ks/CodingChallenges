@@ -13,7 +13,7 @@ package io.abhijith.challenges;
  * 
  * This program is an example for Graph traversal using DFS (you can use BFS as well)
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

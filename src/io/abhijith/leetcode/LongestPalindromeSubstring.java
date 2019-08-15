@@ -3,7 +3,7 @@ package io.abhijith.leetcode;
 /**
  * Given a string s, find the longest palindromic substring in s. 
  * Dynamic Programming
- * @author I332773
+ * @author abhijith-ks
  *
  */
 

@@ -8,7 +8,7 @@ package io.abhijith.challenges;
  * 
  * Write a function to compute all possible states if the string after one valid move.
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.ArrayList;

@@ -6,7 +6,7 @@ package io.abhijith.dailycodingproblem;
  * 
  * Example: ([])[]({}) => well formed, ([)] => not well formed
  * 
- * @author i332773
+ * @author abhijith-ks
  * 
  */
 

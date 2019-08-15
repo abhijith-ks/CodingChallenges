@@ -7,7 +7,7 @@ package io.abhijith.challenges;
  * Linear time complexity
  * Do not make a copy of the array
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

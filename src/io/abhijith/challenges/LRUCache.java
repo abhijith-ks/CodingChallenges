@@ -6,7 +6,7 @@ package io.abhijith.challenges;
  * - Cache maximum capacity should not be exceeded
  * - Remove the least recently used item from cache, if cache max capacity exceeds
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.HashMap;

@@ -13,7 +13,7 @@ import io.abhijith.resources.ListNode;
  * Output: 7 -> 0 -> 8
  * Explanation: 342 + 465 = 807.
  * 
- * @author I332773
+ * @author abhijith-ks
  *
  */
 

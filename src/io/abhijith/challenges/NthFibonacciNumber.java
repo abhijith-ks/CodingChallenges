@@ -8,7 +8,7 @@ package io.abhijith.challenges;
  * 2. Dynamic Programming approach
  * 3. BottumUp approach
  * 
- * @author I332773
+ * @author abhijith-ks
  *
  */
 

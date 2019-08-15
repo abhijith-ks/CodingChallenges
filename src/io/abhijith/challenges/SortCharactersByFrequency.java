@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Given a string, sort it in decreasing order based on the frequency of characters.
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.HashMap;

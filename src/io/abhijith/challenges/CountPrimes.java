@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Given a limit n,
  * Count the prime number from 1 to n-1
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class CountPrimes {

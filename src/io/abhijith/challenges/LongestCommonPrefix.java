@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Write a function to find the longest common prefix string amongst an array of strings
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class LongestCommonPrefix {

@@ -2,7 +2,7 @@ package io.abhijith.challenges;
 
 /**
  * Find the first recurring character in the given string
- * @author I332773
+ * @author abhijith-ks
  */
 
 import java.util.HashMap;

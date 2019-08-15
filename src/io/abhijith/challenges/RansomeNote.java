@@ -5,7 +5,7 @@ package io.abhijith.challenges;
  * Write a function that will return true if the ransom note can be constructed from the magazines.
  * Otherwise return false
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.HashMap;

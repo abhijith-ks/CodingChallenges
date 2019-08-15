@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Given two array and a number
  * Select one number from each array such that the absolute difference between the pair and given number is minimal
  * O(nlogn)
- * @author I332773
+ * @author abhijith-ks
  */
 
 import java.util.Arrays;

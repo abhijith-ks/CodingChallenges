@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Find an element in a circularly sorted array
  * O(logn)
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

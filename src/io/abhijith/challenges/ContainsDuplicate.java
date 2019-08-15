@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Given an array, find whether it contains duplicate elements
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.HashSet;

@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Given a binary tree, check whether it is symmetric
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import io.abhijith.resources.BinaryTreeNode;

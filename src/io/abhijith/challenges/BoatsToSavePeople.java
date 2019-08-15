@@ -6,7 +6,7 @@ package io.abhijith.challenges;
  * Return the minimum number of boats to carry every given person.
  * (It is guaranteed that each person can be carried by a boat.
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.Arrays;

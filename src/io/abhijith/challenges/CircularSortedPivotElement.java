@@ -6,7 +6,7 @@ package io.abhijith.challenges;
  * 
  * O(logn)
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

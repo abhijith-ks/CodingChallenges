@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Detect loop in a linked list
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.HashSet;

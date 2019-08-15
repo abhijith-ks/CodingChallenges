@@ -11,7 +11,7 @@ package io.abhijith.challenges;
  * 
  * You need to return the least number of intervals the CPU will take to finish all the given tasks.
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.ArrayList;

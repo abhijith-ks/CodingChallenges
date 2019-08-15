@@ -8,7 +8,7 @@ package io.abhijith.challenges;
  * Example: arrays = {0,1,2,2,3,0,4,2} and value = 2
  * return: {0,1,3,0,4} in any order
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

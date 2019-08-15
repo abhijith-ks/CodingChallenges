@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Implement Binary Search Tree with operations
  * insert, search, maximum element, minimum element, BFS traversal, Pre-order, In-order, Post-order, check BT is a BST and delete
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.LinkedList;

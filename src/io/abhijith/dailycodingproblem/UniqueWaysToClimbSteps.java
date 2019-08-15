@@ -16,7 +16,7 @@ package io.abhijith.dailycodingproblem;
  * 
  * Write solutions with Recursion and Dynamic Programming
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Given a stream of integers and a window size, calculate the moving average of all integers in the sliding window.
  * Design a class can deal with sliding window
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.LinkedList;

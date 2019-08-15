@@ -8,7 +8,7 @@ package io.abhijith.dailycodingproblem;
  * Example: Given the set of words ['quick','brown','the','fox'] and string "thequickbrownfox"
  * you should return ['the','quick','brown','fox']
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.ArrayList;

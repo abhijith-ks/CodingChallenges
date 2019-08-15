@@ -5,7 +5,7 @@ package io.abhijith.dailycodingproblem;
  * and car(pair) and cdr(pair) returns the first and last element of that pair. 
  * For example, car(cons(3, 4)) returns 3, and cdr(cons(3, 4)) returns 4
  * 
- * @author I332773
+ * @author abhijith-ks
  */
 
 import io.abhijith.resources.PairStructure;

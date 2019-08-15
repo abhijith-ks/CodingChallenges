@@ -12,7 +12,7 @@ package io.abhijith.leetcode;
  * Time complexity is O(log(min(x,y))
  * Space complexity is O(1)
  * 
- * @author I332773
+ * @author abhijith-ks
  */
 
 import java.util.Arrays;

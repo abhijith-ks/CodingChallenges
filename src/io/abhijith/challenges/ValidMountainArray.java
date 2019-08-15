@@ -9,7 +9,7 @@ package io.abhijith.challenges;
  *   - A[0] < A[1] < ... < A[i-1] < A[i]
  *   - A[i] > A[i+1] > ... > A[A.length - 1]
  *   
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class ValidMountainArray {

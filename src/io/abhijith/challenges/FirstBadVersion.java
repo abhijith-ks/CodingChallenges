@@ -6,7 +6,7 @@ package io.abhijith.challenges;
  * 
  * Minimize the number of calls to the API
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

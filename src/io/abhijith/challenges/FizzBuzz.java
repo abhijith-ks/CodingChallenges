@@ -8,7 +8,7 @@ package io.abhijith.challenges;
  * For each multiple of 3 print "Fizz"
  * For each multiple of 5 print "Buzz"
  * For numbers which are multiple of 3 and 5, print "FizzBuzz"
- * @author I332773
+ * @author abhijith-ks
  *
  */
 

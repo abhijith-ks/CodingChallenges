@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Given an array of meeting time intervals consisting of start and end times {[s1,e1],[s2,e2]...} (si < ei)
  * Determine if a person could attend all meetings
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.Arrays;

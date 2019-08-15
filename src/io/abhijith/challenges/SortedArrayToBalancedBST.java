@@ -5,7 +5,7 @@ package io.abhijith.challenges;
  * For this problem, a height-balanced tree is defined as a binary tree,
  * in which the depth of the two subtrees of every node never differ by more than 1
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import io.abhijith.resources.BinaryTreeNode;

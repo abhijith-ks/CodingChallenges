@@ -17,7 +17,7 @@ package io.abhijith.challenges;
  * 
  * Note: Basically the problem asking us to find the longest substring consisting of two digits
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.HashMap;

@@ -6,7 +6,7 @@ package io.abhijith.dailycodingproblem;
  * of all elements in the original array except the one at i
  * Bonus: Solution without division operation
  * 
- * @author I332773
+ * @author abhijith-ks
  */
 
 import java.util.Arrays;

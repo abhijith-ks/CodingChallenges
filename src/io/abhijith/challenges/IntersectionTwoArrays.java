@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Given two arrays, find the intersection of two arrays
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.ArrayList;

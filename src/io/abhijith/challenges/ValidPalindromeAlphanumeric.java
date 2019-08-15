@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class ValidPalindromeAlphanumeric {
