@@ -8,7 +8,7 @@ package io.abhijith.challenges;
  * 
  * Example for use case of Binary Search
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

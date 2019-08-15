@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Given two strings, return of they are equal when both are typed to an empty editor.
  * '#' means a backspace character
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.Stack;

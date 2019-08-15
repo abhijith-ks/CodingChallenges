@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Find the maximum depth of a Binary Tree
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import io.abhijith.resources.BinaryTreeNode;

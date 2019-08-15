@@ -5,7 +5,7 @@ package io.abhijith.challenges;
  * 
  * Two binary trees are considered the same if they are structurally identical and the nodes have the same value.
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import io.abhijith.resources.BinaryTreeNode;

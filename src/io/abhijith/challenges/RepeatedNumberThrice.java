@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Given a non-empty array of integers, every element appears three times except one, which appears only once
  * Find that integers
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.HashMap;

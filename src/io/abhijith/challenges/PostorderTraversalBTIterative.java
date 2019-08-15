@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Given a binary tree, return the postorder traversal of its nodes value
  * Use iterative approach
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.ArrayList;

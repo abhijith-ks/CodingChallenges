@@ -11,7 +11,7 @@ package io.abhijith.challenges;
  * 
  * Dynamic Programming
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

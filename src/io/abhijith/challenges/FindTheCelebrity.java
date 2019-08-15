@@ -7,7 +7,7 @@ package io.abhijith.challenges;
  * You are given a helper function boolean knows(a,b) which tells you whether A knows B.
  * Find out the celebrity by using minimum number of calls to knows(int, int) api
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class FindTheCelebrity {

@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Given a positive integer, output its complement number.
  * The complement number strategy is to flip the bits of its binary representation.
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

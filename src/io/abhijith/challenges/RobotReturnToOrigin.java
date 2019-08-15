@@ -9,7 +9,7 @@ package io.abhijith.challenges;
  * 
  * The way the robot face is irrelevant
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

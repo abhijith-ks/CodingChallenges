@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Given an array of strings, group anagrams together
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.ArrayList;

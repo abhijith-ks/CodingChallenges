@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Given an array containing n distinct numbers taken from 1,2...n
  * Find out the two numbers that are missing from the array
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

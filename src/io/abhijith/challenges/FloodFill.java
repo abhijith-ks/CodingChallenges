@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Implement flood fill for the given image.
  * Graph DFS traversal algorithm
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class FloodFill {

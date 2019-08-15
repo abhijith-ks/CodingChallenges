@@ -7,7 +7,7 @@ package io.abhijith.challenges;
  * To invert an image means that each 0 is replaced by 1, and each 1 is replaced by 0.
  * For example, inverting [0,1,1] results in [1,0,0]
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class FlippingImage {

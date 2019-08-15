@@ -7,7 +7,7 @@ package io.abhijith.challenges;
  * 
  * Given a non-empty string S and a number K, format the string according to the rules described above.
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class LicenseKeyFormator {

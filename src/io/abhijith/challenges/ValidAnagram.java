@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Given two strings s and  t, write a function to determine whether t is an anagram of s
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.HashMap;

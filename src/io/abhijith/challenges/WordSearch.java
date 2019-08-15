@@ -6,7 +6,7 @@ package io.abhijith.challenges;
  * where "adjacent" cells are those horizontally or vertically neighboring.
  * The same letter cell may not be used more than once.
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

@@ -5,7 +5,7 @@ package io.abhijith.challenges;
  * We want to partition this string into as many parts as possible so that each letters appears in at most one part,
  * return a list of integers representing the size of these parts
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.ArrayList;

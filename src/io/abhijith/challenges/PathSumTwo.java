@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Given a binary tree and a sum, find all 'root-to-leaf' paths where each path's sum equals the given sum.
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.ArrayList;

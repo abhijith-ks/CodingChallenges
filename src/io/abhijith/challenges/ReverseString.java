@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Program to reverse a string
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

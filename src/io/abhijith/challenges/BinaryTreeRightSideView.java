@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Given a binary tree, imagine yourself standing on the right side of it.
  * Return the values of the nodes you can see ordered from top to bottom
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.LinkedList;

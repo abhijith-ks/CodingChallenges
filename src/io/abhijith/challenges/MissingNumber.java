@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Given an array containing n distinct numbers taken from 0,1,2...n
  * Find out the one that is missing from the array
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class MissingNumber {

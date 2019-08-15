@@ -15,7 +15,7 @@ package io.abhijith.challenges;
  * 
  * 5->4->11->2  = 22
  * 
- * @author i332773
+ * @author abhijith-ks
  * 
  */
 

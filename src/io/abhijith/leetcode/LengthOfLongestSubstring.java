@@ -12,7 +12,7 @@ package io.abhijith.leetcode;
  * Explanation: The answer is "wke", with the length of 3. 
  *              Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
  *              
- * @author I332773
+ * @author abhijith-ks
  */
 
 import java.util.HashMap;

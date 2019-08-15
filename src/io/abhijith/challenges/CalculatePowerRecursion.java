@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Calculate the power to n for a given number
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class CalculatePowerRecursion {

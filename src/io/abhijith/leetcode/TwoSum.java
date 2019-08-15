@@ -8,7 +8,7 @@ package io.abhijith.leetcode;
  * Because nums[0] + nums[1] = 2 + 7 = 9,
  * return [0, 1].
 
- * @author I332773
+ * @author abhijith-ks
  *
  */
 

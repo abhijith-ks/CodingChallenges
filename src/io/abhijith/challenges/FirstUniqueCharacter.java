@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Given String, find the first non-repeating character with the position
  * 
- * @author i332773 
+ * @author abhijith-ks 
  */
 
 import java.util.HashMap;

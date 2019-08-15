@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Given a non-empty string s, you may delete at most one character.
  * Judge whether you can make it a palindrome
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class ValidPalindromeTwo {

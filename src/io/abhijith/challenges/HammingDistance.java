@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * The Hamming distance between two integers is the number of positions at which the corresponding bits are different.
  * Given two integers x and y, calculate the hamming distance.
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

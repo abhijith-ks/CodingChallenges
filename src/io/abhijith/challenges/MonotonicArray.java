@@ -5,7 +5,7 @@ package io.abhijith.challenges;
  * An array A is monotone increasing if for all i<=j, A[i] <= A[j]
  * An array A is monotone decreasing if for all i<=j, A[i] >= A[j]
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class MonotonicArray {

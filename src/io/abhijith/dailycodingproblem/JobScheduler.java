@@ -4,7 +4,7 @@ package io.abhijith.dailycodingproblem;
  * Implement a job scheduler which takes a function f and an integer n as arguments
  * and calls the function after n milliseconds
  * 
- * @author I332773
+ * @author abhijith-ks
  */
 
 import java.util.Timer;

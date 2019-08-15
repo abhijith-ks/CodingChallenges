@@ -6,7 +6,7 @@ package io.abhijith.dailycodingproblem;
  * Do this in one pass
  * O(nlogn)
  * 
- * @author I332773
+ * @author abhijith-ks
  */
 
 import java.util.ArrayList;

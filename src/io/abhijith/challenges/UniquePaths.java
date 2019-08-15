@@ -7,7 +7,7 @@ package io.abhijith.challenges;
  * 
  * How many possible unique paths are there
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class UniquePaths {

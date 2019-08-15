@@ -9,7 +9,7 @@ package io.abhijith.challenges;
  * Fill each empty room with the distance to its nearest gate.
  * If it is impossible to reach a gate, it should be filled with INF
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

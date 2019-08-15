@@ -6,7 +6,7 @@ package io.abhijith.challenges;
  * 
  * Do it without extra space and in O(n) runtime
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

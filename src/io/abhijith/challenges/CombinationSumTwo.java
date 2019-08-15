@@ -6,7 +6,7 @@ package io.abhijith.challenges;
  * 
  * Each number in candidates may only be used once in the combination.
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.ArrayList;

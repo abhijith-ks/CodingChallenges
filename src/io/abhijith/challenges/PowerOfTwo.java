@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Given a number, check whether it is a power of two
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class PowerOfTwo {

@@ -8,7 +8,7 @@ package io.abhijith.dailycodingproblem;
  *  
  * Example: {4,1,1,4,2,1} returns 9 (4+4+1)
  * 
- * @author I332773
+ * @author abhijith-ks
  *
  */
 

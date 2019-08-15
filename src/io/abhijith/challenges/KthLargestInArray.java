@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Find the K-th largest element in an unsorted array.
  * Note that it is the K-th largest element in the sorted order, not the distinct element
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.Arrays;

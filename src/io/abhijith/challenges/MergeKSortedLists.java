@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Merge K sorted linked lists and return it as one sorted list.\
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.ArrayList;

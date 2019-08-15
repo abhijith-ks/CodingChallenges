@@ -3,7 +3,7 @@ package io.abhijith.challenges;
 /**
  * Given a non array of integers, every element appears twice, except one. Find that single one.
  * 
- * @author i332773
+ * @author abhijith-ks
  *
  */
 

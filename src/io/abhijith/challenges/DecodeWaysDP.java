@@ -9,7 +9,7 @@ package io.abhijith.challenges;
  * 'Z' -> 26
  * Given a non-empty string containing only digits, determine the total number of ways to decode it.
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 public class DecodeWaysDP {

@@ -6,7 +6,7 @@ package io.abhijith.challenges;
  * 
  * Example: "23" -> ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"]
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.List;

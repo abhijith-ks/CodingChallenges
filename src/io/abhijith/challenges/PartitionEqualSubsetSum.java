@@ -4,7 +4,7 @@ package io.abhijith.challenges;
  * Given a non-empty array containing only positive integers.
  * Find if the array can be partitioned into two subsets such that the sum of elements in both subsets is equal.
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.ArrayList;

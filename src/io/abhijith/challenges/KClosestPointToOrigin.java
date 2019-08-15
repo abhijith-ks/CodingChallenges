@@ -5,7 +5,7 @@ package io.abhijith.challenges;
  * (Here, the distance between two points on a plane is the Euclidean distance.)
  * Return the answer in any order
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.PriorityQueue;

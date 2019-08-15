@@ -7,7 +7,7 @@ package io.abhijith.dailycodingproblem;
  * 
  * Example: Given sequence {2,1,5,7,2,0,5} output should be {2, 1.5, 2, 3.5, 2, 2, 2}
  * 
- * @author i332773
+ * @author abhijith-ks
  */
 
 import java.util.ArrayList;

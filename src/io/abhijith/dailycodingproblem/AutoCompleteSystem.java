@@ -8,7 +8,7 @@ package io.abhijith.dailycodingproblem;
  * Example: Given the query string 'de' and a set os strings ["dog","dear","deal","disc","drum","demon"]
  * return ['dear', 'deal', 'demon']
  * 
- * @author I332773
+ * @author abhijith-ks
  */
 
 import java.util.ArrayList;
