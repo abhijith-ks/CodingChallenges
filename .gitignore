@@ -12,6 +12,7 @@
 # *.o
 # *.so
 *.DS_Store
+*.class
 
 # *.so
 
