@@ -21,6 +21,7 @@ public class LongestCommonSubsequence {
 			Arrays.fill(mem[i], -1);
 		
 		System.out.println(lcs("BATD","ABACD",0,0));
+		System.out.println(dpSolution("BATD","ABACD"));
 	}
 	
 	public int lcs(String p, String q, int n, int m) {
@@ -42,6 +43,37 @@ public class LongestCommonSubsequence {
 		mem[n][m] = result;
 		
 		return result;
+	}
+	
+	
+	
+	public int dpSolution(String s1, String s2) {
+		if(s1.length() == 0 || s2.length() == 0) {
+            return 0;
+        }
+        int l1 = s1.length();
+        int l2 = s2.length();
+        int[][] a = new int[l1 + 1][l2 + 1];
+
+        for(int i = 0; i <= l1; i++) {
+            a[i][0] = 0;
+        }
+
+        for(int i = 0; i <= l2; i++) {
+            a[0][i] = 0;
+        }
+
+        for(int i = 0; i < l1; i++) {
+            for(int j = 0; j < l2; j++) {
+                if(s1.charAt(i) == s2.charAt(j)) {
+                    a[i + 1][j + 1] = 1 + a[i][j];
+                } else {
+                    a[i + 1][j + 1] = Math.max(a[i + 1][j], a[i][j + 1]);
+                }
+            }
+        }
+
+        return a[l1][l2];
 	}
 	
 }

@@ -1,7 +1,7 @@
 package io.abhijith.challenges;
 
 /**
- * Given two strings, return of they are equal when both are typed to an empty editor.
+ * Given two strings, return if they are equal when both are typed to an empty editor.
  * '#' means a backspace character
  * 
  * @author abhijith-ks
