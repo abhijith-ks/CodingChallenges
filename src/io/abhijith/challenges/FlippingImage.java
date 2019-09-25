@@ -24,6 +24,7 @@ public class FlippingImage {
 				int x = image[i][j];
 				image[i][j] = image[i][k];
 				image[i][k] = x;
+				k--;
 			}
 			for(int j = 0; j < image[i].length; j++) {
 				image[i][j] = (image[i][j] == 0) ? 1 : 0;

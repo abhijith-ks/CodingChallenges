@@ -1,5 +1,11 @@
 package io.abhijith.challenges;
 
+/**
+ * Given a number, reverse the number and print if it does not overflow
+ * 
+ * @author abhijith-ks
+ */
+
 public class ReverseInteger {
 	
 	public void findSolution(int num) {

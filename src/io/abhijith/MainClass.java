@@ -1,13 +1,41 @@
 package io.abhijith;
 
-import io.abhijith.challenges.LRUCache;
+import io.abhijith.challenges.SudokuSolver;
 
 public class MainClass {
 	
 	public static void main(String[] args) {
 		
-		LRUCache lruc = new LRUCache(5);
-		lruc.findSolution(lruc);
+		SudokuSolver ss = new SudokuSolver();
+		ss.findSolution();
+		
+//--------------------------------------BinaryTreePaths----------------------------------------------	
+//		BinaryTreePaths btp = new BinaryTreePaths();
+//		btp.findSolution();
+		
+//--------------------------------------RemoveVowelsFromString----------------------------------------------	
+//		RemoveVowelsFromString rvfs = new RemoveVowelsFromString();
+//		rvfs.findSolution();
+		
+//--------------------------------------MaximumThreeNumberProduct----------------------------------------------	
+//		MaximumThreeNumberProduct mtnp = new  MaximumThreeNumberProduct();
+//		mtnp.findSolution();
+		
+//--------------------------------------CoinChangeProblem----------------------------------------------	
+//		CoinChangeProblem ccp = new CoinChangeProblem();
+//		ccp.findSolution();
+		
+//--------------------------------------CountingSort----------------------------------------------	
+//		CountingSort cs = new CountingSort();
+//		cs.findSolution();
+		
+//--------------------------------------SherlockAndAnagrams----------------------------------------------	
+//		SherlockAndAnagrams saa = new SherlockAndAnagrams();
+//		saa.findSolution();
+		
+//--------------------------------------LRUCache----------------------------------------------	
+//		LRUCache lruc = new LRUCache(5);
+//		lruc.findSolution(lruc);
 		
 //--------------------------------------ValidMountainArray----------------------------------------------	
 //		ValidMountainArray vma = new ValidMountainArray();

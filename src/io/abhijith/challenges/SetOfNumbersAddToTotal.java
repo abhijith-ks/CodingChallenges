@@ -5,7 +5,6 @@ package io.abhijith.challenges;
  * determine if there is a subset of the given set with sum equal to given sum.
  * 
  * @author abhijith-ks
- *
  */
 
 public class SetOfNumbersAddToTotal {
