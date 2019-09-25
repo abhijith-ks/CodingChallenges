@@ -1,4 +1,4 @@
-# CodingChallenges
+# Coding Challenges and Practices
 Coding Challenges and Practices
 
 - src/io/abhijith/MainClass.java is the entry point for the executions.
